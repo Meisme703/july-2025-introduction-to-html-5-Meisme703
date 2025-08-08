@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Welcome to Samirawit, a company dedicated to providing exceptional services to our customers.">
+    <title>Samirawit - Your Trusted Service Provider</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Welcome to Samirawit</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>At Samirawit, we are dedicated to providing the best services to our customers. Our experienced team is ready to assist you with your needs.</p>
+        </section>
+
+        <section id="services">
+            <h2>Our Services</h2>
+            <article>
+                <h3>Service One</h3>
+                <p>Description of service one. At Samirawit, we offer this service to help our clients achieve their goals effectively.</p>
+            </article>
+            <article>
+                <h3>Service Two</h3>
+                <p>Description of service two. This service is designed to meet the specific needs of our valued customers.</p>
+            </article>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>If you have any questions, feel free to reach out to us through the following methods:</p>
+            <address>
+                <p>Email: <a href="mailto:info@samirawit.com">info@samirawit.com</a></p>
+                <p>Phone: <a href="tel:+1234567890">+251 900859152</a></p>
+            </address>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Samirawit. All rights reserved.</p>
+        <nav aria-label="Footer Navigation">
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </footer>
+
+</body>
+
+</html>
